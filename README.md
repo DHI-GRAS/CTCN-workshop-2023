@@ -8,10 +8,10 @@ This repository contains training material that corresponds to the training manu
 
 
 The material is divided into 4 modules:
-- [Module 1: Introduction to GEE] (notebooks/module_1_GEE.ipynb).
-- [Module 2: Surface water classification at scale] (notebooks/module_2_surface_water.ipynb). 
-- [Module 3: Timeseries analysis of river morphology and early warning identification] (notebooks/module_3_rivers.ipynb).
-- [Module 4: Coastal analysis with tidal context] (notebooks/module_4_coasts.ipynb). 
+- [Module 1: Introduction to GEE](notebooks/module_1_GEE.ipynb).
+- [Module 2: Surface water classification at scale](notebooks/module_2_surface_water.ipynb). 
+- [Module 3: Timeseries analysis of river morphology and early warning identification](notebooks/module_3_rivers.ipynb).
+- [Module 4: Coastal analysis with tidal context](notebooks/module_4_coasts.ipynb). 
 
 
 The work is sponsored by the UN Climate Technology Centre & Network (CTCN). The CTCN promotes the accelerated transfer of environmentally sound technologies for low carbon and climate resilient development at the request of developing countries. They provide technology solutions, capacity building and advice on policy, legal and regulatory frameworks tailored to the needs of individual countries.
