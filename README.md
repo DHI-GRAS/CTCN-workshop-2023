@@ -1,7 +1,7 @@
 # CTCN Capacity building workshop - Bangladesh 2023
 
 
-![alt text](data/Picture13.png)
+![alt text](data/CTCN-readme-figure.png)
 
 
 This repository contains training material that corresponds to the training manual provided. It is designed to introduce tools and analysis for monitoring coastal and riverine geomorphology in a region heavily impacted by climate change. The materials provide an introduction to Earth Observation (EO) and Google Earth Engine (GEE) through step-by-step workflows (notebooks) to provide insights through changes in surface water. It is a requirement that you have [signed up for GEE](https://signup.earthengine.google.com/) in order to follow the material provided.
